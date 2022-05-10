@@ -1,6 +1,6 @@
 ## Welcome to FIITGN
 
-<p>Last updated: February 23, 2022</p>
+<p>Last updated: May 09, 2022</p>
 <p>This privacy policy describes our policies and procedures on the collection, use and disclosure of your information when you use our app.</p>
 <h1>Interpretation and Definitions</h1>
 <h2>Interpretation</h2>
